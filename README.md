@@ -1,3 +1,9 @@
+# Initial Tutorial
+Can be found here:
+
+https://prismic.io/docs/gatsby/getting-started-tutorials/launching-the-project
+
+
 # Prismic & Gatsby getting started tutorial project
 
 This project is meant to help you learn how to get started using [Prismic](https://prismic.io) (API based CMS) along with [Gatsby.js](https://www.gatsbyjs.org/). Check out the Prismic developer documentation to find the tutorial for this project.
