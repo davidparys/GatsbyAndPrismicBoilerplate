@@ -30,7 +30,7 @@ module.exports = {
         {
             resolve: 'gatsby-source-prismic-graphql',
             options: {
-                //repositoryName: 'referral-links-sw',
+                repositoryName: 'referral-links-sw',
                 path: '/preview',
                 previews: true,
                 pages: [{
