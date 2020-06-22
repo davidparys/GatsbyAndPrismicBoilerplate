@@ -8,6 +8,8 @@ https://prismic.io/docs/gatsby/getting-started-tutorials/launching-the-project
 
 This project is meant to help you learn how to get started using [Prismic](https://prismic.io) (API based CMS) along with [Gatsby.js](https://www.gatsbyjs.org/). Check out the Prismic developer documentation to find the tutorial for this project.
 
+This is a simple blog with prismic connection and queries already coded.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development purposes.
